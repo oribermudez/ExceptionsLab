@@ -1,0 +1,8 @@
+C:\Users\oribe\Documents\SAIT\OOP C#\ExceptLab\ExceptLab\bin\Debug\ExceptLab.exe.config
+C:\Users\oribe\Documents\SAIT\OOP C#\ExceptLab\ExceptLab\bin\Debug\ExceptLab.exe
+C:\Users\oribe\Documents\SAIT\OOP C#\ExceptLab\ExceptLab\bin\Debug\ExceptLab.pdb
+C:\Users\oribe\Documents\SAIT\OOP C#\ExceptLab\ExceptLab\obj\Debug\ExceptLab.csproj.AssemblyReference.cache
+C:\Users\oribe\Documents\SAIT\OOP C#\ExceptLab\ExceptLab\obj\Debug\ExceptLab.csproj.SuggestedBindingRedirects.cache
+C:\Users\oribe\Documents\SAIT\OOP C#\ExceptLab\ExceptLab\obj\Debug\ExceptLab.csproj.CoreCompileInputs.cache
+C:\Users\oribe\Documents\SAIT\OOP C#\ExceptLab\ExceptLab\obj\Debug\ExceptLab.exe
+C:\Users\oribe\Documents\SAIT\OOP C#\ExceptLab\ExceptLab\obj\Debug\ExceptLab.pdb
